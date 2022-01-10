@@ -3,3 +3,10 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+.idea/.idea.AdventOfCode/.idea/encodings.xml
+.idea/.idea.AdventOfCode/.idea/indexLayout.xml
+.vscode/launch.json
+.idea/.idea.AdventOfCode/.idea/vcs.xml
+.vscode/tasks.json
+AdventOfCode/.vscode/launch.json
+AdventOfCode/.vscode/tasks.json
